@@ -18,7 +18,7 @@ Escolha a forma que deseja utilizar, como por exemplo MySQL e realize a importa√
 
 ## Como contribuir
 
-Abra uma isseu para que possamos evoluir os dados.
+Abra uma issue para que possamos evoluir os dados.
 
 ## Licen√ßa
 
